@@ -16,5 +16,6 @@ public class Main {
         System.out.println(raz);
         System.out.println(prz);
         System.out.println(cha);
+
     }
 }
